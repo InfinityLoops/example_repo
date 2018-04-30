@@ -1,1 +1,2 @@
-puts "I'm on Gitjub"
+puts "I'm on Github"
+puts "One day I spell pretty"
